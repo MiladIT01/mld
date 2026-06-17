@@ -8,3 +8,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.15:44
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.11:8080#@sora1co
 vless://4bf5a71c-d726-4585-b095-7396675706d5@72.56.81.165:40443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=deepl.com&fp=qq&pbk=D_ks4Yyk4-osnWBxCFvd0_UEgohUXvR2zJoWQg1CACU&sid=c84f&packetEncoding=xudp#@ReleaseNet
 vless://2330f424-ef1f-47ad-a42a-815e5c576820@www.speedtest.net:2087?encryption=none&type=xhttp&security=tls&sni=r1.firefly-service.com&alpn=h2,http/1.1&fp=chrome&path=/&mode=stream-up#%F0%9F%87%A9%F0%9F%87%AA%20%7C%20@WhiteDNS%20%7C%20DE2%7C34.0MB/s%7CGPT%E2%81%BA-DE%7CGM-DE%7CCL-DE%7CSP-DE
+trojan://humanity@104.17.121.43:443?security=tls&sni=www.ignitelimit.com&type=ws&host=www.ignitelimit.com&path=/assignment#FR%20Scaleway%20CF
