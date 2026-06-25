@@ -11,3 +11,4 @@ vless://2330f424-ef1f-47ad-a42a-815e5c576820@www.speedtest.net:2087?encryption=n
 trojan://humanity@104.17.121.43:443?security=tls&sni=www.ignitelimit.com&type=ws&host=www.ignitelimit.com&path=/assignment#FR%20Scaleway%20CF
 vless://08c063d4-17d8-4d44-8f1c-6a1e782d3a1e@167.82.101.213:443?encryption=none&type=xhttp&security=tls&sni=global.fastly.com&alpn=h2,http/1.1&fp=firefox&host=vexikopq012.global.ssl.fastly.net&path=/&mode=auto&extra=%7B%22xPaddingBytes%22:%22100-1000%22%7D#Telegram:%20@vpnbaz
 vless://SoonTeam@108.162.195.19:8080?encryption=none&type=xhttp&security=none&host=new.new.new.ab841.com&path=/@SoonTeam&mode=auto&extra=%7B%22xPaddingBytes%22:%22100-1000%22%7D#Telegram:%20@vpnbaz
+vless://5c9ca141-62fb-4c9a-8ba2-af48afdeafaa@ch-zicid.locations-sub.com:6200?encryption=none&security=reality&sni=play.google.com&fp=qq&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&sid&packetEncoding=xudp#%F0%9F%87%A8%F0%9F%87%AD%20372%20-%20@TheFreeConfigs
